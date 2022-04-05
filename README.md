@@ -4,7 +4,7 @@
 	
 ![THis is an imagine](https://github.com/LindsayTeeters/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
-	If we look at Outcomes based on Goals, you can see that successful campaigns make up just over half of the total campaigns. The bulk of these successful campaigns fell within the $1,000 - $4,000 range. Examining the higher amount (>$50K) campaigns, we can see that these make up only about 19% of the total projects. 
+If we look at Outcomes based on Goals, you can see that successful campaigns make up just over half of the total campaigns. The bulk of these successful campaigns fell within the $1,000 - $4,000 range. Examining the higher amount (>$50K) campaigns, we can see that these make up only about 19% of the total projects. 
 	
 ![This is an image](https://github.com/LindsayTeeters/kickstarter-analysis/blob/main/Resources/Outcomes_Vs_Goals.png?raw=true)
 	
